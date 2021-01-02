@@ -1,8 +1,8 @@
 # About vehicles_insight
 
 ### :car:  Vehicles Shape
-Python function to print:
-- the shape of the vehicles data frame. 
+Python function to print for vehicles data frame:
+- the shape od the data frame.
 - Number of rows.
 - Column's name.
 - Column's type.
