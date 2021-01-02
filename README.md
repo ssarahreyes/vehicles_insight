@@ -13,4 +13,4 @@ Python function to print for vehicles data frame:
 This repo it's ready to use it. 
 
 ### :computer:  Technology
-Pandas and python as been used in this script.
+Pandas and python has been used in this script.
