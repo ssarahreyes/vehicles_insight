@@ -1,7 +1,7 @@
 # About vehicles_insight
 
 ### :car:  Vehicles Shape
-Python function to print the shape of the vechicles data frame. 
+Python function to print the shape of the vehicles data frame. 
 
 ### :white_check_mark:  Status
 This repo it's ready to use it. 
